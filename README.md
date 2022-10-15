@@ -22,7 +22,6 @@
 About me:
 
 - 🔭 I’m currently working on Impel IT Solutions
-- 🌱 I’m currently learning GraphQL and Golang
 - 👯 I’m looking to collaborate on Python, Javascript
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
